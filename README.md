@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rahad31/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rahad31/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rahad31/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Rahad31/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -47,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rahad31/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Rahad31/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rahad31/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Rahad31/Leetcode/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -60,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Rahad31/Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Rahad31/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rahad31/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rahad31/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
