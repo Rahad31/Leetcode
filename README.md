@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rahad31/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Rahad31/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Rahad31/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Rahad31/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rahad31/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Rahad31/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rahad31/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rahad31/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Rahad31/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Rahad31/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Rahad31/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Rahad31/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rahad31/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Rahad31/Leetcode/tree/master/0242-valid-anagram) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rahad31/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Rahad31/Leetcode/tree/master/0067-add-binary) |
 ## Database
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rahad31/Leetcode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rahad31/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
