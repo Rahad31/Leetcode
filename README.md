@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Rahad31/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Rahad31/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Rahad31/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Rahad31/Leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rahad31/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rahad31/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rahad31/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Rahad31/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Rahad31/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rahad31/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Rahad31/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rahad31/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rahad31/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rahad31/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rahad31/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rahad31/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rahad31/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rahad31/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rahad31/Leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -93,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Rahad31/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Rahad31/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Rahad31/Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
