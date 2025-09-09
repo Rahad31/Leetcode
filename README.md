@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rahad31/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Rahad31/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Rahad31/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Rahad31/Leetcode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rahad31/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Rahad31/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rahad31/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Rahad31/Leetcode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Rahad31/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rahad31/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Rahad31/Leetcode/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |
