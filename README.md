@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rahad31/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Rahad31/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahad31/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Rahad31/Leetcode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Rahad31/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Rahad31/Leetcode/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahad31/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Rahad31/Leetcode/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Rahad31/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Rahad31/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Rahad31/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Rahad31/Leetcode/tree/master/0412-fizz-buzz) |
 ## Database
 |  |
 | ------- |
