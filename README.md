@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Rahad31/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahad31/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Rahad31/Leetcode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/Rahad31/Leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -121,16 +122,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rahad31/Leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Rahad31/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rahad31/Leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Rahad31/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rahad31/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rahad31/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rahad31/Leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Rahad31/Leetcode/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
