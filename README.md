@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Rahad31/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahad31/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Rahad31/Leetcode/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/Rahad31/Leetcode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/Rahad31/Leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rahad31/Leetcode/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahad31/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Rahad31/Leetcode/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/Rahad31/Leetcode/tree/master/0504-base-7) |
 ## Trie
 |  |
 | ------- |
