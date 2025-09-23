@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahad31/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Rahad31/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Rahad31/Leetcode/tree/master/0504-base-7) |
+| [0598-range-addition-ii](https://github.com/Rahad31/Leetcode/tree/master/0598-range-addition-ii) |
 | [1013-fibonacci-number](https://github.com/Rahad31/Leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rahad31/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rahad31/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahad31/Leetcode/tree/master/0268-missing-number) |
+| [0598-range-addition-ii](https://github.com/Rahad31/Leetcode/tree/master/0598-range-addition-ii) |
 ## String
 |  |
 | ------- |
